@@ -1,0 +1,6 @@
+framework module FarewyLibrary {
+  umbrella header "FarewyLibrary.h"
+
+  export *
+  module * { export * }
+}
